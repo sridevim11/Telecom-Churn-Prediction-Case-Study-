@@ -1,20 +1,20 @@
 # Telecom-Churn-Prediction-Case-Study
 
-Problem Statement
+# Problem Statement
 
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another.
 In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. 
 Customer retention has now become more important than customer acquisition.
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
-![image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/75b39be3-6dc8-4043-ae94-f7384fbb32f3)
 
-Goal
+
+# Goal
 
 Analyze customer-level data of a leading telecom firm
 
 Build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
  
-Business Recommendations
+# Business Recommendations
 
 If the local incoming minutes of usage (loc_ic_mou_8) is lesser in the month of August than any other month, then there is a higher chance that the customer is likely to churn
 
