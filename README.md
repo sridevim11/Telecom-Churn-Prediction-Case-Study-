@@ -11,10 +11,11 @@ To reduce customer churn, telecom companies need to predict which customers are
 Goal
 
 Analyze customer-level data of a leading telecom firm
+
 Build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
  
 
-Business Recommendations![image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/080fcb58-52b7-4a14-862d-c9619d06ba3d)
+[image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/080fcb58-52b7-4a14-862d-c9619d06ba3d)
 If the local incoming minutes of usage (loc_ic_mou_8) is lesser in the month of August than any other month, then there is a higher chance that the customer is likely to churn
 Target the customers, whose minutes of usage of the incoming local calls and outgoing ISD calls are less in the action phase (mostly in the month of August).
 Target the customers, whose ‘outgoing others’ charge in July and ‘incoming others’ in August are less.
