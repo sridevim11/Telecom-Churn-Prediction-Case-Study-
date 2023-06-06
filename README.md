@@ -13,7 +13,6 @@ Goal
 Analyze customer-level data of a leading telecom firm
 Build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
  
-![image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/5a0b40eb-328d-44f5-b255-510258828a05)
 
 Business Recommendations![image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/080fcb58-52b7-4a14-862d-c9619d06ba3d)
 If the local incoming minutes of usage (loc_ic_mou_8) is lesser in the month of August than any other month, then there is a higher chance that the customer is likely to churn
