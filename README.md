@@ -1,6 +1,6 @@
 # Telecom-Churn-Prediction-Case-Study
 
-Problem Statement![image](https://github.com/sridevim11/Telecom-Churn-Prediction-Case-Study-/assets/30713926/ed337cf0-216d-4a51-b9f3-885be01811ae)
+Problem Statement
 
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another.
 In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. 
